@@ -78,7 +78,7 @@ function Dashboard() {
     <div className="bg-gray-800 font-sans leading-normal tracking-normal min-h-screen">
       {/* Header with Toggle Button */}
       <Header onToggleSidebar={toggleSidebar} />
-      
+
       <div className="flex flex-col md:flex-row">
         {/* Sidebar */}
         <Sidebar
@@ -86,7 +86,7 @@ function Dashboard() {
           isOpen={isSidebarOpen}
           onToggleSidebar={toggleSidebar}
         />
-        
+
         {/* Main Content Section */}
         <section className="flex-1 bg-gray-100 p-4 md:p-8 overflow-y-auto mt-16 md:mt-0">
           {/* Conditional Rendering of Sections */}
