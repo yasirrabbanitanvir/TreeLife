@@ -8,7 +8,7 @@ import {
 } from "react-router-dom";
 
 import Login from "./components/Login";
-import SignUp from "./components/Signup";
+import SignUp from "./components/SignUp";
 import Dashboard from "./components/Dashboard";
 import Suggest from "./components/Suggest";
 import PieChartPage from "./components/PieChartPage";
