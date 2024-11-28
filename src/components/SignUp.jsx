@@ -4,7 +4,9 @@ import { auth, db } from "./firebase";
 import { setDoc, doc } from "firebase/firestore";
 import { toast } from "react-toastify";
 // import plantImage from '../assets/ksenia-TBjNbj1sdAE-unsplash.jpg';
-import plantImage from '@/assets/ksenia-TBjNbj1sdAE-unsplash.jpg';
+import plantImage from '../assets/ksenia-TBjNbj1sdAE-unsplash.jpg';
+
+// Error is here
 
 
 function SignUp() {
