@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Routes, Route, Navigate } from "react-router-d
 import "./App.css";
 
 import Login from "./components/Login";
-import SignUp from "./components/SignUp";
+import SignUp from "./components/SignUp"
 import Dashboard from "./components/Dashboard";
 import Suggest from "./components/Suggest";
 import PieChartPage from "./components/PieChartPage";
