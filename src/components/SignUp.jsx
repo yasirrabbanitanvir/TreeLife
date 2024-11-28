@@ -6,7 +6,7 @@ import { toast } from "react-toastify";
 // import plantImage from '../assets/ksenia-TBjNbj1sdAE-unsplash.jpg';
 import plantImage from '../assets/ksenia-TBjNbj1sdAE-unsplash.jpg';
 
-// Error is here
+// Error is here. solving
 
 
 function SignUp() {

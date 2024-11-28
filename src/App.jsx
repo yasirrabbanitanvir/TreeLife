@@ -5,7 +5,7 @@ import "./App.css";
 // This Web App Inventor is Yasir Rabbani Tanvir
 
 import Login from "./components/Login";
-import SignUp from "./components/SignUp"
+import SignUp from "./components/SignUp";
 import Dashboard from "./components/Dashboard";
 import Suggest from "./components/Suggest";
 import PieChartPage from "./components/PieChartPage";
